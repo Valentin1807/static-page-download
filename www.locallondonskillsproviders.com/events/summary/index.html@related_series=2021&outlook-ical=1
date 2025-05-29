@@ -1,0 +1,380 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Local London Skills Providers - ECPv6.13.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://www.locallondonskillsproviders.com
+X-WR-CALDESC:Events for Local London Skills Providers
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20250330T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20251026T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20260329T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20261025T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20270328T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20271031T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250604T103000
+DTEND;TZID=Europe/London:20250604T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000042-1749033000-1749038400@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-06-04/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250702T103000
+DTEND;TZID=Europe/London:20250702T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000043-1751452200-1751457600@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-07-02/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250806T103000
+DTEND;TZID=Europe/London:20250806T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000044-1754476200-1754481600@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-08-06/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250903T103000
+DTEND;TZID=Europe/London:20250903T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000045-1756895400-1756900800@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-09-03/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20251001T103000
+DTEND;TZID=Europe/London:20251001T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000046-1759314600-1759320000@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-10-01/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20251105T103000
+DTEND;TZID=Europe/London:20251105T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000047-1762338600-1762344000@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-11-05/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20251203T103000
+DTEND;TZID=Europe/London:20251203T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000048-1764757800-1764763200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-12-03/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260107T103000
+DTEND;TZID=Europe/London:20260107T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000049-1767781800-1767787200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-01-07/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260204T103000
+DTEND;TZID=Europe/London:20260204T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000050-1770201000-1770206400@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-02-04/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260304T103000
+DTEND;TZID=Europe/London:20260304T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000051-1772620200-1772625600@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-03-04/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260401T103000
+DTEND;TZID=Europe/London:20260401T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000052-1775039400-1775044800@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-04-01/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260506T103000
+DTEND;TZID=Europe/London:20260506T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000053-1778063400-1778068800@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-05-06/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260603T103000
+DTEND;TZID=Europe/London:20260603T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000054-1780482600-1780488000@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-06-03/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260701T103000
+DTEND;TZID=Europe/London:20260701T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000055-1782901800-1782907200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-07-01/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260805T103000
+DTEND;TZID=Europe/London:20260805T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000056-1785925800-1785931200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-08-05/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260902T103000
+DTEND;TZID=Europe/London:20260902T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000057-1788345000-1788350400@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-09-02/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20261007T103000
+DTEND;TZID=Europe/London:20261007T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000058-1791369000-1791374400@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-10-07/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20261104T103000
+DTEND;TZID=Europe/London:20261104T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000059-1793788200-1793793600@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-11-04/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20261202T103000
+DTEND;TZID=Europe/London:20261202T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000060-1796207400-1796212800@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-12-02/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20270106T103000
+DTEND;TZID=Europe/London:20270106T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000061-1799231400-1799236800@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2027-01-06/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20270203T103000
+DTEND;TZID=Europe/London:20270203T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000062-1801650600-1801656000@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2027-02-03/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20270303T103000
+DTEND;TZID=Europe/London:20270303T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000063-1804069800-1804075200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2027-03-03/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20270407T103000
+DTEND;TZID=Europe/London:20270407T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000064-1807093800-1807099200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2027-04-07/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20270505T103000
+DTEND;TZID=Europe/London:20270505T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000065-1809513000-1809518400@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2027-05-05/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20270602T103000
+DTEND;TZID=Europe/London:20270602T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000066-1811932200-1811937600@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2027-06-02/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20270707T103000
+DTEND;TZID=Europe/London:20270707T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000067-1814956200-1814961600@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2027-07-07/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20270804T103000
+DTEND;TZID=Europe/London:20270804T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000068-1817375400-1817380800@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2027-08-04/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20270901T103000
+DTEND;TZID=Europe/London:20270901T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000069-1819794600-1819800000@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2027-09-01/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20271006T103000
+DTEND;TZID=Europe/London:20271006T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000070-1822818600-1822824000@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2027-10-06/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20271103T103000
+DTEND;TZID=Europe/London:20271103T120000
+DTSTAMP:20250529T100636
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000071-1825237800-1825243200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2027-11-03/
+END:VEVENT
+END:VCALENDAR

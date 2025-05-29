@@ -1,0 +1,99 @@
+.jp-audio .jp-controls {
+    padding: 0px;
+    width: 380px;
+}
+
+.jp-audio .jp-type-single .jp-progress {
+    left: 26px;
+    width: inherit;
+    right:30px;
+}
+
+.jp-audio .jp-progress
+{
+ top:0px;	
+}
+
+.jp-play
+{
+ text-indent:-9999px;	
+ border:none;
+display:block;
+
+}
+
+
+.jp-play,.jp-play:focus {
+ width:10px;
+ height:12px;
+ background:url(../../../../../images/link_table/play.png) no-repeat;	
+}
+
+.jp-state-playing .jp-play,.jp-state-playing .jp-play:focus {
+	 width:10px;
+ height:12px;
+ background:url(../../../../../images/link_table/pause.png) no-repeat;	
+}
+
+
+.jp-interface .jp-controls {
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+
+.jp-volume-bar
+{
+ position:relative;	top:inherit;left:inherit;height:12px;
+}
+
+.jp-seek-bar
+{
+ height:12px;	
+}
+
+.jp-current-time, .jp-duration
+{
+ font-size:12px;margin:0px;padding:0px;width:inherit;display:inline;float:none;	
+}
+
+.jp-volume-bar 
+{
+ background:white;width:100%;	
+}
+  
+.jp-volume-bar-value
+{
+ height:12px;background:#666;	
+}
+
+.jp-audio
+{
+ width:100%;background:none;border:none;	
+}
+
+.jp-audio .jp-interface, .jp-audio-stream .jp-interface
+{
+ background:none;height:inherit;	
+}
+
+.jp-details
+{
+ background:none;
+ text-align:left;	
+}
+   .jp-details  .jp-title
+{
+ padding:0px;margin:0px;padding-bottom:5px;	font-size:15px;color:#00338d;font-weight:normal;
+}
+
+.jp-audio, .jp-audio-stream, .jp-video
+{
+ 	
+}
+
+.jp-play-bar
+{
+ background:#575656;
+}
+

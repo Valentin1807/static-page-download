@@ -1,0 +1,36 @@
+.tribe-events .tribe-events-c-search__input-control--keyword-focus .tribe-events-c-search__input, .tribe-events .tribe-events-c-search__input-control--keyword .tribe-events-c-search__input:focus{background:none !important;background-image:none !important}
+.tribe-common-c-btn-border.tribe-events-c-subscribe-dropdown__button svg
+{
+ display:none;
+}
+
+.single-tribe_events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__list-item a, .tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__list-item a {
+    margin-left:0px;
+    padding-left:0px;
+}
+
+.tribe-events-c-nav__list {
+    display:flex !important;
+}
+
+.tribe-events-meta-group.tribe-events-meta-group-gmap
+{
+    display:none;
+}
+
+.tribe-events .tribe-events-calendar-month__day-cell.tribe-events-calendar-month__day-cell--mobile.tribe-events-calendar-month__day-cell--selected .tribe-events-calendar-month__day-date-daynum  {
+ color:white !important;
+}
+
+.tribe-events-single .tribe-events-c-subscribe-dropdown__container
+{
+    max-width:180px;
+}
+
+ .tribe-events-c-subscribe-dropdown__content
+{
+ position:absolute;
+    z-index:9999;
+}
+
+.tribe-events-single>.tribe_events {overflow:visible}

@@ -1,0 +1,376 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Local London Skills Providers - ECPv6.13.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Local London Skills Providers
+X-ORIGINAL-URL:https://www.locallondonskillsproviders.com
+X-WR-CALDESC:Events for Local London Skills Providers
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20240331T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20241027T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20250330T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20251026T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250525T150000
+DTEND;TZID=Europe/London:20250525T170000
+DTSTAMP:20250529T072821
+CREATED:20241212T150022Z
+LAST-MODIFIED:20241212T150023Z
+UID:10000229-1748185200-1748192400@www.locallondonskillsproviders.com
+SUMMARY:Tech: a catalyst for Decarbonising the Built Environment
+DESCRIPTION:An online webinar discussing how data\, technology\, and AI\, are being used across the Architecture\, Engineering\, and Construction industries to improve sustainability. Find out more: https://sustainabilitymag.com/events/how-technology-is-a-catalyst-for-decarbonizing-the-built-env
+URL:https://www.locallondonskillsproviders.com/event/tech-a-catalyst-for-decarbonising-the-built-environment/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250521T110000
+DTEND;TZID=Europe/London:20250521T133000
+DTSTAMP:20250529T072821
+CREATED:20250411T083254Z
+LAST-MODIFIED:20250411T093514Z
+UID:10000248-1747825200-1747834200@www.locallondonskillsproviders.com
+SUMMARY:GESTA Quarterly Meeting
+DESCRIPTION:Agenda to follow\, refreshments and lunch included. Open to all. \n\n\n\nVenue: The London Academy of Sustainable Construction\, Hollydown Way\, Leytonstone\, E11 4DD.
+URL:https://www.locallondonskillsproviders.com/event/gesta-quarterly-meeting/
+LOCATION:The London Academy of Sustainable Construction\, LASC\, Hollydown Way\, Leytonstone\, E11 4DD\, United Kingdom
+ORGANIZER;CN="Sara Calvo":MAILTO:scalvo@simian-risk.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250513T183000
+DTEND;TZID=Europe/London:20250513T193000
+DTSTAMP:20250529T072821
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000183-1747161000-1747164600@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2025-05-13/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250507T103000
+DTEND;TZID=Europe/London:20250507T120000
+DTSTAMP:20250529T072821
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000041-1746613800-1746619200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-05-07/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250408T183000
+DTEND;TZID=Europe/London:20250408T193000
+DTSTAMP:20250529T072821
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000182-1744137000-1744140600@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2025-04-08/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250402T103000
+DTEND;TZID=Europe/London:20250402T120000
+DTSTAMP:20250529T072821
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000040-1743589800-1743595200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-04-02/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250319T090000
+DTEND;TZID=Europe/London:20250319T150000
+DTSTAMP:20250529T072821
+CREATED:20250227T095700Z
+LAST-MODIFIED:20250227T095701Z
+UID:10000247-1742374800-1742396400@www.locallondonskillsproviders.com
+SUMMARY:London's Green Transition: Business at the Forefront of Inclusive Growth
+DESCRIPTION:On behalf of the Mayor of London\, we are pleased to invite you to the event “London’s Green Transition: Business at the Forefront of Inclusive Growth” organised with C40 Cities\, taking place on Wednesday March 19th\, 2025\, at City Hall from 9:00 am to 3:00 pm.   \n\n\n\nLondon’s Green Economy is worth £50 billion and growing faster than the broader economy in 2023. The event will bring together leaders in the built environment\, clean energy\, and green spaces sectors to discuss the vital role of businesses in fostering an inclusive\, equitable\, and green transition that benefits all Londoners.    \n\n\n\nTackling structural inequalities in London is a key priority for the Mayor. Our new London Growth Plan\, which will be launched on 27th February\, will set out opportunities to boost sustainable and inclusive economic growth across all of London’s communities.  It focuses on creating good jobs and fair pay\, while also delivering on net zero goals and strengthening London’s climate resilience. Complementing the Growth Plan is our Inclusive Talent Strategy\, which will build on the capital’s skilled workforce\, tackle systemic issues across education and employment to unleash the potential of all Londoners and – in turn – London’s economy.   \n\n\n\nBusinesses are the engine of the green transition through job creation\, retrofit\, clean energy and placemaking which all have the potential to positively impact communities and create social value.  We need to ensure the transition to net zero is fair and positively impacts all Londoners\, so it is critical we collaborate across industries and between the public\, private and third sectors to promote social equity\, workforce development and inclusion in the sectors.    \n\n\n\nYou are invited to this important event which will bring together businesses\, industry organisations and trade bodies\, further education providers\, community organisations\, and trade union representatives.   \n\n\n\nWe’ll focus on growing green jobs\, promoting fair and inclusive working practices\, and building social equity.   \n\n\n\nThe half day event will be held at City Hall\, you’ll be able to enjoy insightful and inspirational talks\, build your network amongst other leaders and share your experiences and ideas in short collaborative activities.     \n\n\n\n  This event is for businesses\, but especially targeted at C-suite business leaders\, HR\, Skills\, and Social Value leads at organisations. \n\n\n\n\nSIGN UP HERE\n\n\n\n\nSIGN UP HERE \n\n\n\n   \n\n\n\n   \n\n\n\n   
+URL:https://www.locallondonskillsproviders.com/event/londons-green-transition-business-at-the-forefront-of-inclusive-growth/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250311T183000
+DTEND;TZID=Europe/London:20250311T193000
+DTSTAMP:20250529T072821
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000181-1741717800-1741721400@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2025-03-11/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250305T103000
+DTEND;TZID=Europe/London:20250305T120000
+DTSTAMP:20250529T072821
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000039-1741170600-1741176000@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-03-05/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250305T080000
+DTEND;TZID=Europe/London:20250306T170000
+DTSTAMP:20250529T072821
+CREATED:20241212T145912Z
+LAST-MODIFIED:20241212T145913Z
+UID:10000228-1741161600-1741280400@www.locallondonskillsproviders.com
+SUMMARY:Sustainability LIVE Net Zero
+DESCRIPTION:A hybrid conference and expo at which industry leaders will discuss their sustainability strategies\, making it a useful opportunity for executives to plan how to work towards Net Zero. Tickets also allow access to ‘Procurement and Supply Chain LIVE: Sustainability’. STUDENT TICKETS ARE FREE – attendance will be good for learning and networking. Find out more: https://sustainability-live.com/netzero/
+URL:https://www.locallondonskillsproviders.com/event/sustainability-live-net-zero/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250304T090000
+DTEND;TZID=Europe/London:20250306T090000
+DTSTAMP:20250529T072821
+CREATED:20241212T145731Z
+LAST-MODIFIED:20241212T145732Z
+UID:10000227-1741078800-1741251600@www.locallondonskillsproviders.com
+SUMMARY:Futurebuild London
+DESCRIPTION:The entire supply chain unites at ExCeL London to share and discuss actionable solutions and knowledge which will drive towards sustainable construction. Find out more: https://www.futurebuild.co.uk/
+URL:https://www.locallondonskillsproviders.com/event/futurebuild-london/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250213T080000
+DTEND;TZID=Europe/London:20250213T093000
+DTSTAMP:20250529T072821
+CREATED:20250124T102521Z
+LAST-MODIFIED:20250124T103940Z
+UID:10000231-1739433600-1739439000@www.locallondonskillsproviders.com
+SUMMARY:Business Breakfast with London South East Colleges
+DESCRIPTION:Join us at Bromley Court Hotel for a free business breakfast\, sponsored by LSEC for National Apprenticeship Week 2025. Learn about how to maximise the Apprenticeship Levy\, how to recruit apprentices\, SWAPs\, T-Levels and Work Experience\, and how green skills are embedded into all of these areas. A complimentary Full English Breakfast (including V and Vg options) will be provided. Book here.
+URL:https://www.locallondonskillsproviders.com/event/business-breakfast-with-london-south-east-colleges/
+LOCATION:Bromley Court Hotel\, Bromley Hill\, Bromley\, BR14JD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250212T100000
+DTEND;TZID=Europe/London:20250212T170000
+DTSTAMP:20250529T072821
+CREATED:20250124T103425Z
+LAST-MODIFIED:20250124T104258Z
+UID:10000232-1739354400-1739379600@www.locallondonskillsproviders.com
+SUMMARY:Barking and Dagenham College Skills Show
+DESCRIPTION:A show designed demonstrate students’ technical skills\, develop their employability skills\, and engage students and employers in competitions that prepare learners for entry into the WorldSkills UK Competitions. This forms part of our National Apprenticeships Week programme of events.  \n\n\n\nLearners will: \n\n\n\n\nDemonstrate their technical skills and be in with the chance of winning prizes\n\n\n\nBoost their confidence and employability skills\n\n\n\nShowcase their skills to employers\n\n\n\nPrepare for WorldSkills UK later this year – a national competition where they can test their ability to achieve world-class standards!\n\n\n\n\nA range of industry experts and employers will be providing masterclasses\, talks\, and Q&As throughout the day. \n\n\n\nFind out more HERE.
+URL:https://www.locallondonskillsproviders.com/event/barking-and-dagenham-college-skills-show/
+LOCATION:Barking and Dagenham College\, Rush Green Campus\, Dagenham Road\, Romford\, RM7 0XU
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250212T093000
+DTEND;TZID=Europe/London:20250212T120000
+DTSTAMP:20250529T072821
+CREATED:20250124T110313Z
+LAST-MODIFIED:20250124T115300Z
+UID:10000235-1739352600-1739361600@www.locallondonskillsproviders.com
+SUMMARY:FSB Employer Breakfast - London South East Colleges
+DESCRIPTION:Join London South East Colleges\, FSB and Start Up Bromley for a joint networking event during National Apprenticeship Week. \n\n\n\nEveryone is welcome to join us at the London South East Colleges – Orpington Campus. This will be an opportunity to hear from our Apprenticeship team\, to meet other local small business owners\, hear updates from FSB London and Start Up Bromley about support available to small businesses\, share information and swap business cards over coffee and pastries! \n\n\n\nFind out more HERE.
+URL:https://www.locallondonskillsproviders.com/event/fsb-employer-breakfast-london-south-east-colleges/
+LOCATION:London South East Colleges\, The Walnuts\, Orpington High Street\, BR60TE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250211T183000
+DTEND;TZID=Europe/London:20250211T193000
+DTSTAMP:20250529T072821
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000180-1739298600-1739302200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2025-02-11/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250211T080000
+DTEND;TZID=Europe/London:20250211T100000
+DTSTAMP:20250529T072821
+CREATED:20250124T104214Z
+LAST-MODIFIED:20250124T104215Z
+UID:10000233-1739260800-1739268000@www.locallondonskillsproviders.com
+SUMMARY:Capital City College: Working at Heights Business Breakfast - Green Skills in Action
+DESCRIPTION:Join us for a unique employer engagement event tailored for businesses where working at heights safety is critical. This session is particularly valuable for employers in industries such as construction\, building maintenance\, electrical work\, cleaning\, and wind turbine operations. Find out more HERE.
+URL:https://www.locallondonskillsproviders.com/event/capital-city-college-working-at-heights-business-breakfast-green-skills-in-action/
+LOCATION:Capital City Colleges Group\, 73 Hertford Road\, Enfield\, EN3 5HA
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250206T080000
+DTEND;TZID=Europe/London:20250206T170000
+DTSTAMP:20250529T072821
+CREATED:20241213T110920Z
+LAST-MODIFIED:20250124T110558Z
+UID:10000230-1738828800-1738861200@www.locallondonskillsproviders.com
+SUMMARY:Constructing Skills: CITB Skills and Training Conference
+DESCRIPTION:This funded conference is aimed at construction companies and training providers. It offers a chance to learn about important topics like the Building Safety Act and the Procurement Act\, as well as providing the chance to get one to one support on accessing CITB funding and services and help with understanding business essentials. Good opportunity for skills providers and companies to discuss how they can collaborate. Find out more: CITB Skills & Training Conference London 2025
+URL:https://www.locallondonskillsproviders.com/event/constructing-skills-citb-skills-and-training-conference/
+LOCATION:ibis London Earls Court\, 47 Lillie Road\, Earl's Court\, London\, SW6 1UD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250205T103000
+DTEND;TZID=Europe/London:20250205T120000
+DTSTAMP:20250529T072821
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000038-1738751400-1738756800@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-02-05/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250114T183000
+DTEND;TZID=Europe/London:20250114T193000
+DTSTAMP:20250529T072821
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000179-1736879400-1736883000@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2025-01-14/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250101T103000
+DTEND;TZID=Europe/London:20250101T120000
+DTSTAMP:20250529T072821
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000037-1735727400-1735732800@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-01-01/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20241210T183000
+DTEND;TZID=Europe/London:20241210T193000
+DTSTAMP:20250529T072821
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000178-1733855400-1733859000@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2024-12-10/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20241204T103000
+DTEND;TZID=Europe/London:20241204T120000
+DTSTAMP:20250529T072821
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000036-1733308200-1733313600@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2024-12-04/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20241112T183000
+DTEND;TZID=Europe/London:20241112T193000
+DTSTAMP:20250529T072821
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000177-1731436200-1731439800@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2024-11-12/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20241106T103000
+DTEND;TZID=Europe/London:20241106T120000
+DTSTAMP:20250529T072821
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000035-1730889000-1730894400@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2024-11-06/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20241008T183000
+DTEND;TZID=Europe/London:20241008T193000
+DTSTAMP:20250529T072821
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000176-1728412200-1728415800@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2024-10-08/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20241002T103000
+DTEND;TZID=Europe/London:20241002T120000
+DTSTAMP:20250529T072821
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000034-1727865000-1727870400@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2024-10-02/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20240927T000000
+DTEND;TZID=Europe/London:20240929T235959
+DTSTAMP:20250529T072821
+CREATED:20231108T125016Z
+LAST-MODIFIED:20231108T125017Z
+UID:10000150-1727395200-1727654399@www.locallondonskillsproviders.com
+SUMMARY:Home Building & Renovating Show\, London
+DESCRIPTION:
+URL:https://www.locallondonskillsproviders.com/event/home-building-renovating-show-london/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20240910T183000
+DTEND;TZID=Europe/London:20240910T193000
+DTSTAMP:20250529T072821
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000175-1725993000-1725996600@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2024-09-10/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20240904T103000
+DTEND;TZID=Europe/London:20240904T120000
+DTSTAMP:20250529T072821
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000033-1725445800-1725451200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2024-09-04/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20240813T183000
+DTEND;TZID=Europe/London:20240813T193000
+DTSTAMP:20250529T072821
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000174-1723573800-1723577400@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2024-08-13/
+END:VEVENT
+END:VCALENDAR

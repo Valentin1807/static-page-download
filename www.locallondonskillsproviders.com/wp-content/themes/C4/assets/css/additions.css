@@ -1,0 +1,51 @@
+
+/* line 72, ../scss/_search.scss */
+ul.results { width: 100%; padding: 0; border-top: 1px solid #D7D7D7; float: left; margin: 0; }
+/* line 78, ../scss/_search.scss */
+ul.results li { margin: 0; padding: 0 !important; list-style-type: none; width: 100%; float: left; padding: 1.5em 0; position: relative; border-bottom: 1px solid #D7D7D7;padding-top:30px !important;padding-bottom:30px !important; }
+ul.results li:before{display:none;}
+ul.results li p{ margin-bottom:0px !important}
+
+.resultTitle h2{margin-top:0px !important}
+
+/* line 87, ../scss/_search.scss */
+body.section.searchresults section.pageContent .resultTitle a { text-decoration: none; }
+/* line 89, ../scss/_search.scss */
+body.section.searchresults section.pageContent .resultTitle a:hover { text-decoration: underline; }
+
+/* line 93, ../scss/_search.scss */
+section.pageContent ul.results { margin: 0; }
+
+/* line 96, ../scss/_search.scss */
+.resultTitle a { display: block; -webkit-transition: color 0.2s; -moz-transition: color 0.2s; -ms-transition: color 0.2s; -o-transition: color 0.2s; transition: color 0.2s; }
+
+/* line 100, ../scss/_search.scss */
+.resultInfo { width: 100%; height: auto; padding: 10px 0; border-top: 1px solid #D7D7D7; position: relative; margin: 25px 0 0 0; }
+
+/* line 108, ../scss/_search.scss */
+.resultExcerpt { margin-top: 0.3em; display: block; line-height: 1.3em; max-width: 86%; }
+
+/* line 114, ../scss/_search.scss */
+.resultNum { float: right; }
+
+/* line 117, ../scss/_search.scss */
+a.resultMore { width: auto; position: absolute; top: 65%; right: 0; }
+
+@media (max-width: 480px) { /* line 126, ../scss/_search.scss */
+  .resultNum { float: none; display: none; margin-top: 5px; } }
+@media (max-width: 767px) { /* line 133, ../scss/_search.scss */
+
+  .resultPagination{display:none}
+  #search { right: auto; left: 0; }
+  /* line 136, ../scss/_search.scss */
+  #search .searchHolder { top: 16px; top: 1rem; width: 90%; }
+  /* line 139, ../scss/_search.scss */
+  #search .searchHolder .normSearch { border: 0; margin: -1px; padding: 0; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); clip: rect(0); position: absolute; }
+  /* line 152, ../scss/_search.scss */
+  .resultExcerpt { max-width: 100%; }
+  /* line 155, ../scss/_search.scss */ .resultNum { float: none; display: none; margin-top: 5px; }
+  a.resultMore { float: left; position: relative; top: auto; } }
+@media (max-width: 1023px) { /* line 165, ../scss/_search.scss */
+  #search input.searchInput, #search button.searchBTN.norm { display: none; }
+  /* line 168, ../scss/_search.scss */
+  #search a.searchBTN { display: block; } }

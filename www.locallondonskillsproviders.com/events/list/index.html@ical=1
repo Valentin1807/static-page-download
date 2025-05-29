@@ -1,0 +1,369 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Local London Skills Providers - ECPv6.13.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Local London Skills Providers
+X-ORIGINAL-URL:https://www.locallondonskillsproviders.com
+X-WR-CALDESC:Events for Local London Skills Providers
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20250330T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20251026T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20260329T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20261025T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250604T103000
+DTEND;TZID=Europe/London:20250604T120000
+DTSTAMP:20250529T095939
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000042-1749033000-1749038400@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-06-04/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250610T183000
+DTEND;TZID=Europe/London:20250610T193000
+DTSTAMP:20250529T095939
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000184-1749580200-1749583800@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2025-06-10/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250621T080000
+DTEND;TZID=Europe/London:20250629T170000
+DTSTAMP:20250529T095939
+CREATED:20250124T104454Z
+LAST-MODIFIED:20250124T104455Z
+UID:10000234-1750492800-1751216400@www.locallondonskillsproviders.com
+SUMMARY:London Climate Action Week
+DESCRIPTION:A week-long series of events to celebrate London Climate Action Week\, and inspire increased focus amongst businesses in the drive towards Net Zero. Find out more HERE.
+URL:https://www.locallondonskillsproviders.com/event/london-climate-action-week/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250702T103000
+DTEND;TZID=Europe/London:20250702T120000
+DTSTAMP:20250529T095939
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000043-1751452200-1751457600@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-07-02/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250708T183000
+DTEND;TZID=Europe/London:20250708T193000
+DTSTAMP:20250529T095939
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000185-1751999400-1752003000@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2025-07-08/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250806T103000
+DTEND;TZID=Europe/London:20250806T120000
+DTSTAMP:20250529T095939
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000044-1754476200-1754481600@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-08-06/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250812T183000
+DTEND;TZID=Europe/London:20250812T193000
+DTSTAMP:20250529T095939
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000186-1755023400-1755027000@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2025-08-12/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250903T103000
+DTEND;TZID=Europe/London:20250903T120000
+DTSTAMP:20250529T095939
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000045-1756895400-1756900800@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-09-03/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250909T183000
+DTEND;TZID=Europe/London:20250909T193000
+DTSTAMP:20250529T095939
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000187-1757442600-1757446200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2025-09-09/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20251001T103000
+DTEND;TZID=Europe/London:20251001T120000
+DTSTAMP:20250529T095939
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000046-1759314600-1759320000@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-10-01/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20251014T183000
+DTEND;TZID=Europe/London:20251014T193000
+DTSTAMP:20250529T095939
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000188-1760466600-1760470200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2025-10-14/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20251105T103000
+DTEND;TZID=Europe/London:20251105T120000
+DTSTAMP:20250529T095939
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000047-1762338600-1762344000@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-11-05/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20251111T183000
+DTEND;TZID=Europe/London:20251111T193000
+DTSTAMP:20250529T095939
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000189-1762885800-1762889400@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2025-11-11/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20251203T103000
+DTEND;TZID=Europe/London:20251203T120000
+DTSTAMP:20250529T095939
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000048-1764757800-1764763200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2025-12-03/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20251209T183000
+DTEND;TZID=Europe/London:20251209T193000
+DTSTAMP:20250529T095939
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000190-1765305000-1765308600@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2025-12-09/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260107T103000
+DTEND;TZID=Europe/London:20260107T120000
+DTSTAMP:20250529T095939
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000049-1767781800-1767787200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-01-07/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260113T183000
+DTEND;TZID=Europe/London:20260113T193000
+DTSTAMP:20250529T095939
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000191-1768329000-1768332600@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2026-01-13/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260204T103000
+DTEND;TZID=Europe/London:20260204T120000
+DTSTAMP:20250529T095939
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000050-1770201000-1770206400@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-02-04/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260210T183000
+DTEND;TZID=Europe/London:20260210T193000
+DTSTAMP:20250529T095939
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000192-1770748200-1770751800@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2026-02-10/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260304T103000
+DTEND;TZID=Europe/London:20260304T120000
+DTSTAMP:20250529T095939
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000051-1772620200-1772625600@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-03-04/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260310T183000
+DTEND;TZID=Europe/London:20260310T193000
+DTSTAMP:20250529T095939
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000193-1773167400-1773171000@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2026-03-10/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260401T103000
+DTEND;TZID=Europe/London:20260401T120000
+DTSTAMP:20250529T095939
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000052-1775039400-1775044800@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-04-01/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260414T183000
+DTEND;TZID=Europe/London:20260414T193000
+DTSTAMP:20250529T095939
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000194-1776191400-1776195000@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2026-04-14/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260506T103000
+DTEND;TZID=Europe/London:20260506T120000
+DTSTAMP:20250529T095939
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000053-1778063400-1778068800@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-05-06/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260512T183000
+DTEND;TZID=Europe/London:20260512T193000
+DTSTAMP:20250529T095939
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000195-1778610600-1778614200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2026-05-12/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260603T103000
+DTEND;TZID=Europe/London:20260603T120000
+DTSTAMP:20250529T095939
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000054-1780482600-1780488000@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-06-03/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260609T183000
+DTEND;TZID=Europe/London:20260609T193000
+DTSTAMP:20250529T095939
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000196-1781029800-1781033400@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2026-06-09/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260701T103000
+DTEND;TZID=Europe/London:20260701T120000
+DTSTAMP:20250529T095939
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000055-1782901800-1782907200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-07-01/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260714T183000
+DTEND;TZID=Europe/London:20260714T193000
+DTSTAMP:20250529T095939
+CREATED:20231220T124046Z
+LAST-MODIFIED:20231220T124048Z
+UID:10000197-1784053800-1784057400@www.locallondonskillsproviders.com
+SUMMARY:Greenwich B2B (formerly Link n Drink)
+DESCRIPTION:For more information on this and other SELCC event https://www.selondonchamber.org/events/ 
+URL:https://www.locallondonskillsproviders.com/event/greenwich-b2b-formerly-link-n-drink-2/2026-07-14/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260805T103000
+DTEND;TZID=Europe/London:20260805T120000
+DTSTAMP:20250529T095939
+CREATED:20230606T152901Z
+LAST-MODIFIED:20230621T084249Z
+UID:10000056-1785925800-1785931200@www.locallondonskillsproviders.com
+SUMMARY:Greenwich Connect
+DESCRIPTION:For more information go to: Greenwich Connect | Supporting businesses in the borough of Greenwich
+URL:https://www.locallondonskillsproviders.com/event/greenwich-connect/2026-08-05/
+END:VEVENT
+END:VCALENDAR

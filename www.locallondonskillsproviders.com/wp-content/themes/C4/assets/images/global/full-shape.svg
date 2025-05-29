@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Group_6" data-name="Group 6" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 250 248.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #878787;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #04a85f;
+      }
+
+      .cls-3 {
+        fill: #d0d0d0;
+      }
+
+      .cls-4 {
+        fill: #5ab031;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1">
+    <path id="Path_12" data-name="Path 12" class="cls-4" d="M182.3,67.7V27.5C182.3,12.3,170,0,154.8,0h-24.9v120.1h92.6c15.2,0,27.5-12.3,27.5-27.5v-24.9h-67.7Z"/>
+    <path id="Path_13" data-name="Path 13" class="cls-2" d="M67.7,67.7H27.5c-15.2,0-27.5,12.3-27.5,27.5h0v24.9h120.1V27.5C120.1,12.3,107.8,0,92.6,0h-24.9v67.7Z"/>
+    <path id="Path_14" data-name="Path 14" class="cls-1" d="M67.7,180.4v40.2c0,15.2,12.3,27.5,27.5,27.5h24.9v-120.1H27.5c-15.2,0-27.5,12.3-27.5,27.5v24.9h67.7Z"/>
+    <path id="Path_15" data-name="Path 15" class="cls-3" d="M182.3,180.4h40.2c15.2,0,27.5-12.3,27.5-27.5v-24.9h-120.1v92.6c0,15.2,12.3,27.5,27.5,27.5h24.9v-67.7Z"/>
+  </g>
+</svg>
